@@ -1,49 +1,40 @@
 # TESTIMONY - KANISHKA 
 **Position:** Admin Staff  
-**Date of Interview:** August 30, 2024  
+**Date of Interview:** August 30, 2025  
 **Time:** 1:00 PM  
 **Interviewer:** Detective Sarah Chen  
 
 ---
 
-**DETECTIVE CHEN:** Please state your name and position for the record.
+**DETECTIVE CHEN:** Please state your name and position for the record.  
 
-**KANISHKA:** Kanishka , Admin Staff. I manage scheduling, fund records, and provide finance support.
+**KANISHKA:** Kanishka, Admin Staff. I handle scheduling and finance support.  
 
-**DETECTIVE CHEN:** Can you describe your activities on the evening of August 29th?
+**DETECTIVE CHEN:** Can you describe your activities on the evening of August 29th?  
 
-**KANISHKA:** Tejas and I went to the CFO's office around 10:07 PM for some sweets he had mentioned.
+**KANISHKA:** Tejas and I went to the CFO's office around 10 PM to get some sweets he had kept there.  
 
-**DETECTIVE CHEN:** What happened in the office?
+**DETECTIVE CHEN:** And what happened inside the office?  
 
-**KANISHKA:** We got the sweets. I noticed something on his desk that seemed... important. Something he shouldn't have left lying around.
+**KANISHKA:** We had the sweets, nothing unusual. After that, I picked up the empty box—it seemed better to throw it away rather than leave a mess in his cabin.  
 
-**DETECTIVE CHEN:** What did you do?
+**DETECTIVE CHEN:** Witnesses say you left the office carrying that box quite carefully. Why?  
 
-**KANISHKA:** I picked it up. Put it in a box I found there to keep it safe.
+**KANISHKA:** *[agitated]* Careful? No, I was just holding it normally. People are reading too much into it—it was just an empty box!  
 
-**DETECTIVE CHEN:** People saw you leaving with that box. You seemed very careful with it.
+**DETECTIVE CHEN:** You’re sure you didn’t see or take anything else from the CFO’s office?  
 
-**KANISHKA:** *[defensive]* I was being careful because it was important. I didn't want it to get lost or damaged.
+**KANISHKA:** Yes. I took the box out to dispose of it, that’s it.  
 
-**DETECTIVE CHEN:** Why didn't you leave it in the office?
+**DETECTIVE CHEN:** Did you notice anything unusual that night?  
 
-**KANISHKA:** *[hesitant]* I thought... I thought it would be safer with me overnight. I was going to return it in the morning.
+**KANISHKA:** No, I left soon after. Everything seemed normal to me.  
 
-**DETECTIVE CHEN:** Did you use whatever was in that box?
+**DETECTIVE CHEN:** Is there anything else you'd like to add?  
 
-**KANISHKA:** No! I kept it locked in my desk. I never touched it after I put it there.
-
-**DETECTIVE CHEN:** Did you notice anything else unusual that night?
-
-**KANISHKA:** I went home shortly after. Didn't know there were any problems until the next morning.
-
-**DETECTIVE CHEN:** Is there anything else you'd like to add?
-
-**KANISHKA:** I was just trying to keep something safe. I didn't know it would cause problems.
+**KANISHKA:** I think people are making this bigger than it is. I just didn’t want to leave trash behind.  
 
 ---
 
 **Interview concluded at 1:35 PM**  
 **Signed:** Kanishka   
-**Witness:** Detective Sarah Chen
