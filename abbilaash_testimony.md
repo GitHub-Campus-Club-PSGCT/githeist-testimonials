@@ -24,7 +24,7 @@
 
 **DETECTIVE CHEN:** Did you see anyone near your workstation?
 
-**ABBILAASH:** *[thinking]* Yes, actually. When I was coming back, I saw Jayasurya near my desk. He walked away quickly when he saw me.
+**ABBILAASH:** *[thinking]* Yes, actually. When I was coming back, I saw Jayasurya near my desk. 
 
 **DETECTIVE CHEN:** Did you talk to him?
 
@@ -34,8 +34,7 @@
 
 **ABBILAASH:** *[surprised]* No, I didn't delete anything. What kind of files?
 
-**DETECTIVE CHEN:** System logs. Access records.
-Could someone have used your computer while you were gone?
+**DETECTIVE CHEN:** System logs. Access records. Could someone have used your computer while you were gone?
 
 **ABBILAASH:** *[uncomfortable]* I... I sometimes leave it unlocked for short breaks. We trust each other here. Or at least, I thought we did.
 
@@ -49,4 +48,4 @@ Could someone have used your computer while you were gone?
 
 **Interview concluded at 11:30 AM**  
 **Signed:** Abbilaash 
-**Witness:** Detective Sarah Chen
+
