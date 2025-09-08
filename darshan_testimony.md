@@ -22,17 +22,9 @@
 
 **DARSHAN:** *[nervous]* Sometimes the automated cleanup doesn't work right. I have to delete logs manually.
 
-**DETECTIVE CHEN:** We found evidence that funds were transferred to your account.
-
-**DARSHAN:** *[shocked]* What? That's impossible! I don't have access to financial systems.
-
-**DETECTIVE CHEN:** The evidence is clear.
-
-**DARSHAN:** *[agitated]* Someone set me up! I never authorized any transfers. I don't know how they got my account information.
-
 **DETECTIVE CHEN:** You deleted the logs that would show who accessed systems that night.
 
-**DARSHAN:** *[panicking]* I was just doing my job! I didn't know it would cover anything up.
+**DARSHAN:** *[defensive]* I was just doing my job! I didn't know it would cover anything up.
 
 **DETECTIVE CHEN:** Do you work with Rizvi?
 
@@ -48,15 +40,15 @@
 
 **DETECTIVE CHEN:** Did you verify that?
 
-**DARSHAN:** *[ashamed]* No... he said it was confidential.
+**DARSHAN:** *[ashamed]* No... she said it was confidential.
 
 **DETECTIVE CHEN:** Anything else?
 
-**DARSHAN:** I think... I think he used what I created to set me up. I never saw any money. I didn't know.
+**DARSHAN:** I think... I think she used what I created against me somehow. I don't know what for, but I have a bad feeling about it.
 
 ---
 
 **Interview concluded at 7:45 PM**  
 **Signed:** Darshan  
 **Witness:** Detective Sarah Chen  
-**Note:** Subject appeared genuinely shocked upon learning about the fund transfer to his account
+**Note:** Subject appeared nervous about the backdoor access he had created
