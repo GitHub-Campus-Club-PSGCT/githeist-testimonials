@@ -1,7 +1,7 @@
 # TESTIMONY - DHAARUN 
 **Position:** Research Associate  
-**Date of Interview:** August 30, 2024  
-**Time:** 6:00 PM  
+**Date of Interview:** August 30, 2025
+**Time:** 6:15 PM  
 **Interviewer:** Detective Sarah Chen  
 
 ---
@@ -16,9 +16,9 @@
 
 **DETECTIVE CHEN:** Richitha sent you messages that night. What about?
 
-**DHAARUN:** She sent something at 11:55 PM about "successfully inserting memes." I didn't know what she meant.
+**DHAARUN:** She sent about "successfully inserted memes using the USB."
 
-**DETECTIVE CHEN:** What did you ask her?
+**DETECTIVE CHEN:** What did you reply to her?
 
 **DHAARUN:** I asked whose USB it was. Her message seemed... odd.
 
@@ -32,22 +32,20 @@
 
 **DETECTIVE CHEN:** You sent a message saying "I'll go check once." Check what?
 
-**DHAARUN:** I wanted to see if everything was okay with the system. If Jayasurya's USB had been used...
+**DHAARUN:** I wanted to see if everything was okay with the system.
 
 **DETECTIVE CHEN:** You were seen near the treasury at 12:19 AM.
 
-**DHAARUN:** *[surprised]* I was trying to find the CFO's office in the dark. Got turned around. The treasury is in that area.
+**DHAARUN:** *[surprised]* I was going to the CFO's office. 
 
 **DETECTIVE CHEN:** Did you make it to the CFO's office?
 
-**DHAARUN:** No. Got lost in the dark, then there was chaos. Alarms going off. I went back to my desk.
+**DHAARUN:** Yes.I checked if everything she did was working and then returned back.
 
 **DETECTIVE CHEN:** Anything else you remember?
 
-**DHAARUN:** Just that I should have checked on things sooner. When Richitha mentioned Jayasurya's USB... I had a bad feeling about it.
-
+**DHAARUN:**  Not really.
 ---
 
 **Interview concluded at 6:40 PM**  
 **Signed:** Dhaarun  
-**Witness:** Detective Sarah Chen
