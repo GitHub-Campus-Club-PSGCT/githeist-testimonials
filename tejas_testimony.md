@@ -1,6 +1,6 @@
 # TESTIMONY - TEJAS 
 **Position:** CFO's Assistant  
-**Date of Interview:** August 30, 2024  
+**Date of Interview:** August 30, 2025  
 **Time:** 2:00 PM  
 **Interviewer:** Detective Sarah Chen  
 
@@ -12,11 +12,11 @@
 
 **DETECTIVE CHEN:** Can you describe your activities on the evening of August 29th?
 
-**TEJAS:** Kanishka and I went to the CFO's office around 10:07 PM. He had mentioned there were some sweets we could have.
+**TEJAS:** Kanishka and I went to the CFO's office around 10 PM. He had mentioned there were some sweets we could have.
 
 **DETECTIVE CHEN:** What happened in the office?
 
-**TEJAS:** We found the sweets. While we were there, I noticed a small box on the shelf with the CFO's initials. It seemed like something personal, so I took it to keep it safe.
+**TEJAS:** We found the sweets. While we were there, I noticed a small box on the shelf with the CFO's initials. It seemed like something personal.
 
 **DETECTIVE CHEN:** Can you describe this box?
 
@@ -24,15 +24,11 @@
 
 **DETECTIVE CHEN:** Did you look inside?
 
-**TEJAS:** Not until the next morning when all this started. Just his watch. Nothing important.
+**TEJAS:** Yes. Just his watch.
 
 **DETECTIVE CHEN:** Did you notice Kanishka doing anything unusual?
 
-**TEJAS:** *[pauses]* Well, she picked up this box from the CFO's desk. Empty box, as far as I could tell.
-
-**DETECTIVE CHEN:** What was unusual about that?
-
-**TEJAS:** The way she was carrying it. Like it was... precious or something. But it looked empty to me. I don't know why she was being so careful with an empty box.
+**TEJAS:** The way she was carrying the empty sweet box. Like it was... precious or something. But it looked empty to me. I don't know why she was being so careful with an empty box.
 
 **DETECTIVE CHEN:** Did you ask her about it?
 
@@ -50,4 +46,3 @@
 
 **Interview concluded at 2:30 PM**  
 **Signed:** Tejas   
-**Witness:** Detective Sarah Chen
