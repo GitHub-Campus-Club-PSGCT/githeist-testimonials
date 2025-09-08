@@ -1,7 +1,7 @@
 # TESTIMONY - RIZVI 
 **Position:** Finance Communications  
-**Date of Interview:** August 30, 2024  
-**Time:** 5:00 PM  
+**Date of Interview:** August 30, 2025  
+**Time:** 7:00 PM  
 **Interviewer:** Detective Sarah Chen  
 
 ---
@@ -12,19 +12,19 @@
 
 **DETECTIVE CHEN:** Can you account for your whereabouts on the evening of August 29th?
 
-**RIZVI:** I was working late on reports. Stayed until around 12:30 AM finishing up communications.
+**RIZVI:** I was working late on reports. Stayed until around 12:30 AM finishing up.
 
-**DETECTIVE CHEN:** You sent Vishal a message at 12:20 AM saying "Transfer successful." Explain.
+**DETECTIVE CHEN:** You sent Vishal a message at 12:20 AM saying "Transfer successful." Explain.  
 
-**RIZVI:** *[confident]* That was about document transfers. I had uploaded some reports to our server and was updating Vishal.
+**RIZVI:** *[confident]* That wasn’t about reports. Vishal asked me to send some money for a personal deed, so I did it.  
 
-**DETECTIVE CHEN:** Document transfers?
+**DETECTIVE CHEN:** A personal deed?  
 
-**RIZVI:** *[defensive]* Yes. Vishal monitors system security, so I keep him informed about file transfers.
+**RIZVI:** *[defensive]* Yes. He said it was something private, not official work. I only transferred it because he asked me directly.  
 
 **DETECTIVE CHEN:** The timing coincides with other events that night.
 
-**RIZVI:** *[uncomfortable]* I was just doing my job. If other things were happening, I didn't know about them.
+**RIZVI:** *[uncomfortable]* I was just doing my job as a friend. If other things were happening, I didn't know about them.
 
 **DETECTIVE CHEN:** You work with Darshan on projects?
 
@@ -38,5 +38,4 @@
 
 **Interview concluded at 5:35 PM**  
 **Signed:** Rizvi   
-**Witness:** Detective Sarah Chen  
 **Note:** Subject appeared increasingly nervous as questioning progressed
